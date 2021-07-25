@@ -1,5 +1,7 @@
 # Hoework_20_solidity
 ![image](https://user-images.githubusercontent.com/78707082/126886159-27097178-905c-44a2-a23d-fabc888eb643.png)
+![image](https://user-images.githubusercontent.com/78707082/126886217-b2fe96d5-d193-4d63-a722-b37ec69fedd4.png)
+
 pragma solidity ^0.5.0;
 
 // lvl 1: equal split
